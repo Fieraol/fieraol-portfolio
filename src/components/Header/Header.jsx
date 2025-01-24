@@ -52,7 +52,7 @@ function Header() {
             <img src={linkedinIcon} alt="LinkedIn icon" />
           </a>
         </span>
-        <p>
+        <p className={styles.description}>
           Well versed in a multitude of full stack application development
           technologies and programs. Skilled in problem-solving and critical
           thinking, as well as collaboration, leadership, and adaptability.
