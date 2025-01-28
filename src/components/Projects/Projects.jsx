@@ -14,25 +14,25 @@ function Projects() {
           src={statPaddr}
           link="https://github.com/Fieraol/Final_Project_Test"
           h3="StatPaddr"
-          p="Live NBA Standings App"
+          p="NBA Standings App"
         />
         <ProjectCard
           src={librarydb}
           link="https://github.com/Fieraol/library-database"
           h3="Library Database"
-          p="Database of books with additional info using SQL"
+          p="Book SQL Database"
         />
         <ProjectCard
           src={clearcellgame}
           link="https://github.com/Fieraol/ClearCellGame"
           h3="Clear Cell Game"
-          p="Java based game using recursion"
+          p="Java game"
         />
         <ProjectCard
           src={portfolio}
           link="https://github.com/Fieraol/fieraol-portfolio"
           h3="Portfolio"
-          p="My portfolio created using React.js"
+          p="React.js portfolio"
         />
       </div>
     </section>
