@@ -26,7 +26,7 @@ function Projects() {
           src={clearcellgame}
           link="https://github.com/Fieraol/ClearCellGame"
           h3="Clear Cell Game"
-          p="A Java based game where the objective is to maximize the colored cells cleared from the board"
+          p="Java based game using recursion"
         />
         <ProjectCard
           src={portfolio}
