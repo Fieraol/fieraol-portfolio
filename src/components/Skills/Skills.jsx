@@ -24,6 +24,7 @@ function Skills() {
       <hr />
       <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="React.js" />
+        <SkillList src={checkMarkIcon} skill="Next.js" />
         <SkillList src={checkMarkIcon} skill="NestJS" />
         <SkillList src={checkMarkIcon} skill="Angular" />
         <SkillList src={checkMarkIcon} skill="Flask" />
@@ -35,6 +36,7 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="PostgreSQL" />
         <SkillList src={checkMarkIcon} skill="MySQL" />
         <SkillList src={checkMarkIcon} skill="DynamoDB" />
+        <SkillList src={checkMarkIcon} skill="Prisma" />
         <SkillList src={checkMarkIcon} skill="Snowflake" />
         <SkillList src={checkMarkIcon} skill="Celery" />
         <SkillList src={checkMarkIcon} skill="RESTful" />
